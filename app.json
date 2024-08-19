@@ -1,15 +1,15 @@
 {
-    "name": "Queen_Anita-V2",
+    "name": "no-name-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "logo": "https://telegra.ph/file/f2d5c2da71ec036dcd6d9.jpg",
+    "keywords": ["elizzybot", "no-name-V2", "no-name-v2"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "no-name-V2",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://telegra.ph/file/f2d5c2da71ec036dcd6d9.jpg",
         "required": false
       },
   
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/f2d5c2da71ec036dcd6d9.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "no-name-V2"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -99,15 +99,15 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": ""
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "2347038494997"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibU9YNW9XNEtkVDZZRzF3ckFHUWgrYnVjTG5EdHBrRWowbjhLVHc5MkFXZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicFllUlVtUEhBRWo4OHNoS3ZRMnB3YXZidHovQm5xTEQvV2FQcERUL3pHVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrRm5Bc3hodWxjZEV5Z3RSamxGTzBTMGREOUxOTVNvTlFqM3dIMFh4NG1NPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNVXB0bmw0ZmxJaU80eVRRUk5rQ0s5djZxM1prYjhsMi96WXQ2aTBLUUVRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNCOW5kTm5FWkdIUm5UNDh4V3RQaHpKRHcyL2xpZnptLzdEeEwzMWJoSE09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNpcStldWpXajhnZHdMYllLdFdNOFFhWDhCdWNyRGlpRlRjb0kvUTZqVTQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUlLWVh1eUZjTzc3V0d1WU5QOTdqcHJSOFBFbVdDSitsM1EydWJMTkFVYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ2VBeVdlRVVXbUNJcWVNZU1rZm8wNjhDL1VHRHhkU1M2aG1oSTZEYmlEcz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlAxZE41L0xlb3JTNlFrdHRHNzc2NWNHSUI3WjVkVkZvL3l1YWNFMlB3dmtZUzcwUWVJbVpYT2xVTDFXNHYvVzV2Q1FpUDg2QzNWdVNPcGpCSzkwUEF3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzIsImFkdlNlY3JldEtleSI6Ikc2Nld2VjFwc1ZRVHFtRkM0cUlyY2oyM2QzY2hjNVZ2T1c4WXZlejU3RFk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IlBEMm9qenpBUkZlWTI4bmdTc2xvZWciLCJwaG9uZUlkIjoiNWEyZmFmOTItODFhYS00Nzg1LTk0MzYtMzk1YTE0NmU0OTljIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InJuNTZkT1pBd2NpU0M1MW1iNGxsL3doQ2dybz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6ZERiU05xU0VUdW9zdjRNYnRJeTdEenhOL1E9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiTTFQR0U2RzciLCJtZSI6eyJpZCI6IjIzNDcwMzg0OTQ5OTc6ODdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoibm8tbmFtZSB0ZWNoIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKLzh5SWtGRUltUGpMWUdHQjBnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJDR1dRVFAvSVBHMDRrOGF0WXc2S2N0TG4xN3BKMk1rV1dxY1BPckNmWkM4PSIsImFjY291bnRTaWduYXR1cmUiOiJtN1VhNjMzUHJCWDI2RmExS1kzRkI5dGhsaEMyaWtKcFlmSzl2bm5kUE4weHZib0Q2aloyMzQ4V2MwNUltOVVwU0Q4M0ZadlpoSjVTdHpwN2xONnlCdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiUWRrUnJVZGJkYm5HVzZoalVDNkNSYXFCRXdHY1RFdHZhY0Y0WFlMbVo0Y0VNbGoyRUh6WFZpQXprb2pkUFc4cUYramtUS0t3VFpyVFU3L2NQaGUrQWc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzQ3MDM4NDk0OTk3Ojg3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlFobGtFei95RHh0T0pQR3JXTU9pbkxTNTllNlNkakpGbHFuRHpxd24yUXYifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjQwNTc0OTR9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "no-name-V2",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "N O N A M E",
         "required": false
       }  
   },
